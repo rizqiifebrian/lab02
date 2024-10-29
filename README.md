@@ -170,3 +170,5 @@ Dan selesai diakhiri menggunakan simbol oval
 ![gambar](ss.png)
 
 ## Hasil dari program di atas
+
+![gambar](ssa.png)
