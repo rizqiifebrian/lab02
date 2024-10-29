@@ -18,7 +18,7 @@
 
 mulai:proses dimulai dengan langakah ini, ditandai oleh simbol oval
 
-![gambar](ft2.png)
+![gambar](mulai.png)
 
 inisialisasi harga tiket:
 
